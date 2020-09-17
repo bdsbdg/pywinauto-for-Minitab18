@@ -1,0 +1,8 @@
+[Station1]
+item=item_name1,item_name2,item_name3
+max=1200,9999,9999
+min=700,2600,2600
+[Station2]
+item=item_name1,item_name2,item_name3
+max=1200,9999,9999
+min=700,2600,2600
